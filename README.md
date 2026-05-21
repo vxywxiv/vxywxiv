@@ -1,6 +1,6 @@
 Hi
 <br><br><br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxywxiv&show_icons=true&theme=highcontrast)](https://github.com/vxywxiv/github-readme-stats)<br>
+[![vxywxiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxywxiv&show_icons=true&theme=highcontrast)](https://github.com/vxywxiv/github-readme-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxywxiv&show_icons=true&theme=highcontrast&layout=compact)
 <!--
 **vxywxiv/vxywxiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
