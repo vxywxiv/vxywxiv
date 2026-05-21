@@ -1,9 +1,9 @@
 Hi
 <br><br><br><br>
-![2010david's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxywxiv&show_icons=true&theme=highcontrast)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxywxiv&show_icons=true&theme=highcontrast)](https://github.com/vxywxiv/github-readme-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxywxiv&show_icons=true&theme=highcontrast&layout=compact)
 <!--
-**2010david/2010david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vxywxiv/vxywxiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
